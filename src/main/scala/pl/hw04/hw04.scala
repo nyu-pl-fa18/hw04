@@ -2,7 +2,7 @@ package pl.hw04
 
 object hw04 extends App {
 
-  // Problem 4: Custom Control Constructs
+  // Problem 4: Custom Control Flow Constructs
 
   def until(b: => Boolean)(body: => Unit): Unit = {
     ???

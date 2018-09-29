@@ -164,7 +164,7 @@ directly. So you can't execute this code in Scala as given. We here
 consider a hypothetical language that behaves like Scala in every way
 except for the above differences.
 
-## Problem 4: Implementing Custom Control Flow Constructs (2 Points)
+## Problem 4: Implementing Custom Control-Flow Constructs (2 Points)
 
 Call-by-name parameters are particularly useful when one wants to
 implement custom control-flow constructs. Here, we use this idea to
