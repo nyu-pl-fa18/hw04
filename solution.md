@@ -1,8 +1,8 @@
 # Solution
 
-## Problem 1
+## Answer to Problem 1
 
-## Problem 2
+## Answer to Problem 2
 
-## Problem 3
+## Answer to Problem 3
 
